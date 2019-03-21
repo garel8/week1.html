@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html>
+<head>
+   <meta charset="utf-8" />
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <title>My CV</title>
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <link rel="stylesheet" type="text/css" media="screen" href="style.css" />
+   <script src="main.js"></script>
+</head>
+<body>
+   <div class= content>
+       <h1 id="title_cv"> My CV</h1>
+       <div class="header">
+           <div class="inside_header profile">
+            Nana  Sylvano Garel<br>
+            Kithiron 39 Pireas 185 41<br>
+            694 317 8212<br>  
+            Athens<br>
+            garel8@yahoo.fr<br>
+            
+
+           </div>
+           <div class="inside_header image"><img src="my picture/my picture.jpg" id="imgs" width="300"/></div>
+           <div class="inside_header objectif">
+            Qualified computer maintenance technician capable of efficiently diagnosing and repairing all problems related to hardware and software of a computer.
+
+           </div>
+       </div>
+   <!-- end for the header -->
+   <div class="body_content">
+       <aside>
+        <div class="sec_language">
+            <h1> language skills</h1>
+          <div class="left_language">
+            <h3> other  language</h3>
+            <p>learn Greek</p>
+         
+              <div class="right_language">
+                <table>
+                    <tr>
+                        <th>english</th>
+                         <th>french</th>
+                    </tr>
+                     <tr>
+                        <td>read</td>
+                        <td>read</td></tr>
+                     <tr>
+                        <td>spoken</td>
+                        <td>spoken</td></tr>
+                     <tr>
+                        <td>written</td>
+                        <td>written</td></tr>
+                     <tr> <td>fair</td>
+                        <td>very good</td>
+                     </tr>
+                 </table>
+              </div>
+          </div>
+       </aside>
+       <div id="media"><img src="my picture/salle de maintenance.jpg"></div>    
+       
+       <div class="main_info">
+           <section>
+                   <div class="sec">
+                   <h1>Professional experience</h1>
+                         <div class="left">
+                              <h3>2013-2017</h3>
+                         </div>
+
+                        <div class="rigth">
+                           <h3>'' CENTER MULTIMEDIA OF NGOA-EKE ''<br> located at the University of Yaoundé 1 (Cameroon)     <h3>
+                            <h3>Owner</h3>
+                              <ul>
+                                  <li>Greeting customers and repairing desktops or laptops</li>
+                                  <li>Repair breakdowns and advise customers about suitable equipment</li>
+                                  <li>Diagnose faults, update software and remove viruses</li>
+                                  <li>Sale of hardware and laptops</li>     
+                                  <li>Maintain an up-to-date knowledge of hardware, software and news.</li>
+                                  <li>Diagnose faults, update software and remove viruses</li>
+                                  <li>Advise customers about the characteristics of IT equipment as needed</li>
+                              </ul>
+                               <h3>2013-2017</h3>
+                               <h3>IT Consultants at GYNECO Hospital Yaoundé Cameroon</h3>
+                              <ul>
+                                  <li>Diagnose faults, update software and remove viruses</li>
+                                  <li>List the IT needs in different departments </li>
+                              </ul>
+                              <h3>2010-2011</h3>
+                               <h3>Professional internship at GIC CEFPAM (Joint Initiative Group<br> for professional trainers of arts and crafts of Cameroon),<br> where I trained young people:</h3>
+                              <ol>
+                                  <li>Training in maintenance</li>
+                                  <li>Office training</li>
+                              </ol>
+                        </div>
+                   </div>
+           </section>
+           <section>
+                    <div class="end">
+                   <h1>Curriculum</h1>
+                        
+                            <h3>2008-2010</h3>
+                    
+                          
+                              <h4>SIANTOU Superior Institute</h4>
+                              <p>- Higher Technician Certificate (BTS) in Computer Maintenance.</p>
+                           
+                       
+                           <h3>2006-2007</h3>
+                       
+                      
+                            <h3>CITE-VERTE High School Yaoundé (Cameroon)</h3>
+                            <p>- Baccalaureate C.</P>
+                        
+                           
+                              <h3>2018-present</h3>
+                           
+                             
+                                  <h3>SOCIAL HACKERS ACADEMY</h3>STUDIES IN WEB PROGRAMMING
+                                    <P>- Studies in Web programming</P>
+                            
+                     </div>
+           </section>
+
+
+   <footer>
+           <p>copyright 2018 Sylvano Garel Nana</p>
+       </footer>
+
+   </div>
+</body>
+</html>
